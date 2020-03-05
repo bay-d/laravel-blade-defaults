@@ -1,7 +1,7 @@
 {
     "name": "bayd/bbattle-tested-blade",
     "description": "Opinionated Laravel Blade Defaults",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
