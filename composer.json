@@ -1,6 +1,6 @@
 {
     "name": "bayd/laravel-battle-tested-blade",
-    "description": "Opinionated Laravel Blade Defaults",
+    "description": "Opinionated Laravel Blade Theming",
     "type": "library",
     "license": "MIT",
     "authors": [

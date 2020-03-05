@@ -1,2 +1,2 @@
-# Battle Tested Laravel Blade
-## Opinionated Laravel Blade Defaults
+# Laravel Battle Tested Blade
+## Opinionated Laravel Blade Theming
