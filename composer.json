@@ -1,0 +1,29 @@
+{
+    "name": "bayd/bbattle-tested-blade",
+    "description": "Opinionated Laravel Blade Defaults",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jordon Baade",
+            "email": "github@jordonbaade.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+	},
+	"autoload": {
+		"psr-4": {
+			"BayD\\BattleTestedBlade\\": "src/"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"BayD\\BattleTestedBlade\\Tests\\": "tests/"
+		}
+	},
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    }
+}
